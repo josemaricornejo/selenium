@@ -24,7 +24,7 @@ driver.getClass();
 
 ### getCurrentUrl()
 - El comando se usa para recuperar la URL de la página web a la que el usuario está accediendo actualmente.
-- El comando no requiere ningún parámetro y devuelve un valor de cadena
+- El comando no requiere ningún parámetro y devuelve un valor de cadena.
 ~~~java
 driver.getCurrentUrl();
 ~~~
